@@ -1,4 +1,4 @@
-# self-introduction
+# Self-Introduction
 name ：HuangDeZan
 
 Graduated from ：Hechi University.
