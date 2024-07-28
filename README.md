@@ -3,6 +3,10 @@ name ：HuangDeZan
 
 Graduated from ：Hechi University.
 
+Major studied ：Data Science and Big Data Technology
+
+grade ：2020
+
 born ：2002.02
 
 hobby ：Photography, table tennis, computer repair
