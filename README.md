@@ -19,7 +19,7 @@ Programming languages ​​good at ： __Python__
 
 email :  __dezanhuang@gmail.com__
 
-backup email :  1912828464@qq.com
+backup email :  1912828464@qq.com  (Due to some special network problems, my Google Mail may not be available in some cases ~)
 
 ## 2.Internship experience 实习经历
 This part is presented in Chinese
