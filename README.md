@@ -45,4 +45,7 @@ tips:My homepage is ↓
 ```
 https://aistudio.baidu.com/personalcenter/thirdview/2598449
 ```
-__I am a freelance programmer, and the programming language I am good at using is Python. I graduated from Hechi University, majoring in data science and big data technology.At present, I have taught myself PaddlePaddle, and have a certain understanding of many of its derivative tools and experience in secondary development. Although I am a recent graduate, I will continue to learn new knowledge.__
+```
+注：
+如果您通过我的简历上的方式找到这里，请通过我简历上的手机号加我微信，我将如实向您面谈详细的个人经历
+```
